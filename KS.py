@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-Versão 1 - **09/04/2020**
-"""
+# Versão 1 - **09/04/2020**
 
 def KSOut(arquivo,Perf,Escore,Buckets=10):
     import pandas as pd
