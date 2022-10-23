@@ -1,6 +1,6 @@
-# Códigos compartilhados
+# Códigos auxiliares
 
-Códigos compartilhados
+Códigos auxiliares
 
 A ideia e compartilhar codigos que uso em meus projetos e podem ajudar colegas em seus projetos no Python.
 
